@@ -1,6 +1,6 @@
-var friendResults = [
-	{
-  "name":"Ahmed",
+var friends = [{
+	
+  "name":"Hank",
   "photo":"http://www.factfiend.com/wp-content/uploads/2014/05/Hank.png",
   "scores":[
       5,
@@ -13,7 +13,9 @@ var friendResults = [
       5,
       4,
       1
-	}
+]
+}
+
 ];
 
-module.exports = friendResults;
+module.exports = friends;
